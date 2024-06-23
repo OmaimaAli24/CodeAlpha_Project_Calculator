@@ -1,0 +1,55 @@
+.text{
+    text-align: center;
+}
+.bg{
+    background-color: rgb(2, 2, 2);
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: lightpink;
+    
+}
+.calculator-container{
+    background-color: rgb(3, 3, 3);
+    border: 2px solid #333;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    width: 300px;
+}
+.operations button{
+    background-color: rgb(204, 149, 204);
+}
+.operate{
+    background-color: rgb(204, 149, 204);
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 0;
+    font-size: small;
+    width: 210px;
+}
